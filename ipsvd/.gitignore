@@ -1,0 +1,6 @@
+*.a
+*.om
+*.os
+*.osm
+.*.a.cmd
+.*.o.cmd

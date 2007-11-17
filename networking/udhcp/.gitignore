@@ -1,0 +1,7 @@
+dumpleases
+*.a
+*.o
+.*.a.cmd
+.*.o.cmd
+udhcpc
+udhcpd

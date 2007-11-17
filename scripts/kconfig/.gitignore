@@ -1,0 +1,11 @@
+*.a
+*.o
+.*.o.cmd
+zconf.hash.c
+mconf
+qconf
+zconf.tab.c
+lex.zconf.c
+.conf.cmd
+.mconf.cmd
+.qconf.cmd
