@@ -6,7 +6,6 @@ busybox_unstripped
 busybox_unstripped.gdb
 libbusybox.so*
 _install
-.config
 .menuconfig.log
 .config.cmd
 .config.old
