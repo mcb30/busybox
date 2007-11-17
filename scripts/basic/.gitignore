@@ -2,3 +2,5 @@
 .docproc.cmd
 split-include
 .split-include.cmd
+docproc
+fixdep

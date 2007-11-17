@@ -17,3 +17,5 @@ _install
 .busybox_unstripped.cmd
 .tmp_versions
 *.a
+busybox_unstripped.map
+busybox_unstripped.out

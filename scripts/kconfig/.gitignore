@@ -9,3 +9,4 @@ lex.zconf.c
 .conf.cmd
 .mconf.cmd
 .qconf.cmd
+conf
